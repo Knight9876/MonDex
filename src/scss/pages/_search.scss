@@ -1,0 +1,23 @@
+.search {
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    color: white;
+    text-transform: uppercase;
+    .pokemon-searchbar {
+        width: 96%;
+        height: 9%;
+        margin: 2rem 2rem 0rem 2rem;
+        border-radius: 5rem;
+        text-align: center;
+        font-size: 1.3rem;
+        background-color: rgba(255, 255, 255, 0.125);
+        outline: none;
+        border: none;
+        color: white;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        &::-webkit-input-placeholder {
+            color: white;
+        }
+    }
+}

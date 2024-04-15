@@ -13,7 +13,7 @@ MonDex is a feature-rich website built with TypeScript (TSX) and React-Redux Too
 
 2. Compare Tab:
 
-    I. Pokemon Comparison: Compare two Pokemon side by side based on their types, strengths, weaknesses, resistances, and vulnerabil:ities.<br>
+    I. Pokemon Comparison: Compare two Pokemon side by side based on their types, strengths, weaknesses, resistances, and vulnerabilities.<br>
     II. Add, View, Remove: Add Pokemon to your collection, view detailed information about a Pokemon, and remove it from the compare tab.
 
 3. Search Tab:

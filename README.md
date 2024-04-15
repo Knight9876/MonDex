@@ -13,7 +13,7 @@ MonDex is a feature-rich website built with TypeScript (TSX) and React-Redux Too
 
 2. Compare Tab:
 
-    I. Pokemon Comparison: Compare two Pokemon side by side based on their types, strengths, weaknesses, resistances, and vulnerabilities.
+    I. Pokemon Comparison: Compare two Pokemon side by side based on their types, strengths, weaknesses, resistances, and vulnerabil:ities.
     II. Add, View, Remove: Add Pokemon to your collection, view detailed information about a Pokemon, and remove it from the compare tab.
 
 3. Search Tab:
@@ -31,10 +31,10 @@ MonDex is a feature-rich website built with TypeScript (TSX) and React-Redux Too
 
 # Getting Started:
 
-    1. Installation: Clone the MonDex repository to your local machine.
+1. Installation: Clone the MonDex repository to your local machine.
 
-    2. Dependencies: Install project dependencies using npm or yarn.
+2. Dependencies: Install project dependencies using npm or yarn.
 
-    3. Run the Application: Start the development server to run MonDex locally.
+3. Run the Application: Start the development server to run MonDex locally.
 
-    4. Explore Tabs: Navigate through the different tabs (Pokemon, Compare, Search, My Collection, About) to explore the various features of the website.
+4. Explore Tabs: Navigate through the different tabs (Pokemon, Compare, Search, My Collection, About) to explore the various features of the website.
